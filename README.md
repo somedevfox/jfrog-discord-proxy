@@ -7,6 +7,7 @@ This script REQUIRES port forwarding, as it acts as web proxy.
 
 ## How do I run this script?
 You need node.js, you can find it [here](https://nodejs.org/)
+
 Then, to install libraries run 
 ```
 npm install node-fetch
