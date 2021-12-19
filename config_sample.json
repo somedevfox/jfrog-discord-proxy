@@ -1,0 +1,11 @@
+{
+    "port": 80,
+    "whitelist": {
+        "enabled": true,
+        "path": "/secretwebhookthing"
+    },
+    "webhooks": [{
+        "url": "https://discord.com/api/webhooks/your_webhook_here",
+        "name": "my JFrog Artifactory"
+    }]
+}
